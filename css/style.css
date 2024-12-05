@@ -138,3 +138,94 @@
     font-weight: 500;
     font-size: 12px;
 }
+.content{
+    background-color: rgb(0, 0, 0);
+    margin-top: -1.7%;
+}
+.content-title{
+    font-weight: 900;
+}
+.content-title>h1{
+    padding-top: 4%;
+    margin-left: 38%;
+    color: white;
+}
+.content-title>p{
+    margin-left: 30%;
+    font-size: .8rem;
+    color: #ffffffa1;
+}
+#access{
+    margin-left: 20%;
+}
+.change-habits{
+    margin-top: 4%;
+}
+.change-habits img{
+    width: 70%;
+    border-radius: 50%;
+}
+.movement{
+    margin-left: 15%;
+}
+.movement>h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-left: 1.5rem;
+}
+.time{
+    margin-left: 4%;
+}
+.time>h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-left: 3rem;
+}
+.practice{
+    margin-left: 4%;
+    
+}
+.practice>h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-left: 2.5rem;
+}
+.weight-loss{
+    margin-left: 4%;
+}
+.weight-loss>h2{
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-left: 1.5rem;
+}
+.movement>p{
+    margin-top: -3%;
+    color: #ffffffa1;
+    font-size: .7rem;
+    width: 80%;
+}
+.accessible{
+    margin-left: 1rem;
+}
+.time>p{
+    margin-top: -3%;
+    color: #ffffffa1;
+    font-size: .7rem;
+    width: 80%;
+}
+.practice>p{
+    margin-top: -3%;
+    color: #ffffffa1;
+    font-size: .7rem;
+    width: 80%;
+}
+.weight-loss>p{
+    margin-top: -3%;
+    color: #ffffffa1;
+    font-size: .7rem;
+    width: 80%;
+}
